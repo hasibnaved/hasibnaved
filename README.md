@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasib Naved</h1>
-<h3 align="center">☁️ Cloud Computing Enthusiast | AWS • Linux • Networking</h3>
-<h4 align="center">🚀 Aspiring DevOps Engineer from Bangladesh 🇧🇩</h4>
+<h3 align="center">☁️ Cloud Computing Enthusiast ☁️
+
+Learning AWS, Linux and Networking.</h3>
+<h4 align="center">Future DevOps Engineer 🚀</h4>
 
 <br/>
 
