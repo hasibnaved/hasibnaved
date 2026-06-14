@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Linux, AWS & Networking**
 - 🎯 Goal: Become a **DevOps Engineer**
 - 🛠️ Practicing on my repo: [linux-labs](https://github.com/hasibnaved/linux-labs)
-- 📫 Reach me at: **hasib.naved@gmail.com**
+- 📫 Reach me at: **hasibnaved2004@gmail.com**
 
 ---
 
